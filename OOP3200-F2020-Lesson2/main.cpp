@@ -66,6 +66,7 @@ int main()
 	int inputY; // temporary input variable for y
 	// to store the distance between two points
 
+	
 	try
 	{
 		// Input
